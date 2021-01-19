@@ -1,0 +1,1 @@
+This project displays coding exercises outside of the Codeup exercise
